@@ -1,0 +1,48 @@
+Total transactions 
+Total Transactions = SUM(upi_monthly_statistics[volume_millions])
+
+Total Transactions Value
+Total Transaction Value = SUM(upi_monthly_statistics[value_crores])
+
+Live Banks 
+Live Banks = MAX(upi_monthly_statistics[banks_live])
+
+Average transactions Value 
+Average Transaction Value =
+AVERAGE(
+    upi_monthly_statistics[avg_transaction_value_inr]
+)
+
+YOY Volume Growth %
+YoY Volume Growth % =
+AVERAGE(
+    upi_monthly_statistics[yoy_volume_growth_pct]
+)
+
+YOY Value Growth %
+YoY Value Growth % =
+AVERAGE(
+    upi_monthly_statistics[yoy_value_growth_pct]
+)
+
+Growth Rate Difference 
+Growth Rate Difference % = [YoY Value Growth %] - [YoY Volume Growth %]
+
+MOM Volume Growth %
+MoM Volume Growth % =
+AVERAGE(
+    upi_monthly_statistics[mom_volume_growth_pct]
+)
+
+MOM Value Growth %
+MoM Value Growth % =
+AVERAGE(
+    upi_monthly_statistics[mom_value_growth_pct]
+)
+
+Transaction Value per Transaction
+Calculated Avg Transaction Value =
+DIVIDE(
+    [Total Transaction Value] * 10,
+    [Total Transactions]
+)
