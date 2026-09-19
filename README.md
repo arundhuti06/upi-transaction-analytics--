@@ -40,7 +40,7 @@ An end-to-end Data Analytics project analyzing the growth and evolution of India
 - [SQL Analysis](SQL-analysis-queries.sql)
 - [Power BI Dashboard](UPI_Analysis_Dashboard.pbix)
 - [Project Documentation](documentation.docx)
-- [DAX Mesures Formulas](DAXMeasures.txt)
+- [DAX Mesures Formulas](DAX-Measures.txt)
 ## 📚 Dataset
 
 **Indian UPI Ecosystem Statistics 2016–2025**  
