@@ -48,7 +48,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/vedantagarwal0812/indian-upi-ec
 
 ## 🔗 Connect
 
-**LinkedIn:** [View Project Showcase](YOUR_LINKEDIN_POST_URL)
+**LinkedIn:** [View Project Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7506963648750202880/)
 
 ---
 
