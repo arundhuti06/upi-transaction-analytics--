@@ -23,24 +23,24 @@ An end-to-end Data Analytics project analyzing the growth and evolution of India
 
 ### Page 1 — UPI Growth & Transaction Scale
 
-![Dashboard Page 1](screenshots/dashboard_page_1.png)
+![Dashboard Page 1](Page1.png)
 
 ### Page 2 — UPI Growth & Transaction Behaviour
 
-![Dashboard Page 2](screenshots/dashboard_page_2.png)
+![Dashboard Page 2](Page2.png)
 
 ### Page 3 — UPI Ecosystem & Time Trends
 
-![Dashboard Page 3](screenshots/dashboard_page_3.png)
+![Dashboard Page 3](Page3.png)
 
 ---
 
 ## 📂 Project Files
 
-- [SQL Analysis](sql/upi_analysis.sql)
-- [Power BI Dashboard](powerbi/UPI_Analysis_Dashboard.pbix)
-- [Project Documentation](documentation/UPI_Transaction_Analytics_PostgreSQL_Analysis.pdf)
-
+- [SQL Analysis](SQL-analysis-queries.sql)
+- [Power BI Dashboard](UPI_Analysis_Dashboard.pbix)
+- [Project Documentation](documentation.docx)
+- [DAX Mesures Formulas](DAXMeasures.txt)
 ## 📚 Dataset
 
 **Indian UPI Ecosystem Statistics 2016–2025**  
